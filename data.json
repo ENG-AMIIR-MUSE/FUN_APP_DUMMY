@@ -1,21 +1,28 @@
-[
-  "Bananas are classified as berries, while strawberries are not. According to botanical definitions, bananas develop from a flower with a single ovary, and they have soft skin, fleshy middle, and contain seeds, all characteristics of a berry. Strawberries, on the other hand, are considered 'aggregate fruits' since they develop from multiple ovaries.",
-  
-  "Octopuses have three hearts. Two hearts pump blood to the gills, while the third pumps it to the rest of the body. Interestingly, when an octopus swims, the heart that delivers blood to the body actually stops beating, which is why they tend to prefer crawling over swimming to conserve energy.",
-  
-  "A day on Venus is longer than a year. Venus has an extremely slow rotation, taking 243 Earth days to complete one rotation, while it only takes 225 Earth days for Venus to complete a full orbit around the Sun. This means a day on Venus is longer than its year!",
-  
-  "Honey never spoils. Archaeologists have discovered pots of honey in ancient Egyptian tombs that are over 3,000 years old and still completely edible. Honey's natural composition makes it nearly impossible for bacteria and microorganisms to grow in it, allowing it to last indefinitely under proper conditions.",
-  
-  "The Eiffel Tower can grow by up to 6 inches in summer. The iron structure of the Eiffel Tower expands when heated, causing the tower to grow slightly during warm weather. This thermal expansion is a natural effect of metal reacting to temperature changes.",
-  
-  "Sharks predate trees. Sharks have been swimming in Earth’s oceans for more than 400 million years, while trees, as we know them today, only appeared around 350 million years ago. This makes sharks older than the first trees on the planet!",
-  
-  "Humans share 60% of their DNA with bananas. Despite the apparent differences between humans and bananas, about 60% of the genes found in bananas are shared with humans. This commonality arises because all living organisms have basic biological mechanisms coded in their DNA.",
-  
-  "Sloths can hold their breath longer than dolphins. While dolphins can hold their breath for about 10 minutes, sloths can do it for up to 40 minutes. Sloths reduce their heart rate when they’re underwater, allowing them to extend the amount of time they can stay submerged.",
-  
-  "The unicorn is the national animal of Scotland. In Scottish mythology, unicorns are symbols of purity, innocence, and power. This mythical creature was adopted as the country's national animal during the 12th century due to its strong connection with Scottish heritage.",
-  
-  "There are more stars in the universe than grains of sand on Earth. While it may seem incredible, scientists estimate that there are roughly 1 septillion stars in the observable universe. For comparison, Earth has around 7.5 x 10^18 grains of sand, a much smaller number."
-]
+ [
+    {
+      "ticket_id": 101,
+      "issue_type": "Technical Support",
+      "priority": "High",
+      "subject": "Unable to access my account",
+      "status": "Open",
+      "description": "I am unable to log into my account. It shows an error message.",
+      "owner": "Support Team",
+      "assignee": "Alice Johnson",
+      "created_at": "2024-09-20T10:30:00Z",
+      "last_updated": "2024-09-20T11:00:00Z",
+      "customer_id": 1
+    },
+    {
+      "ticket_id": 102,
+      "issue_type": "Billing Inquiry",
+      "priority": "Medium",
+      "subject": "Charge discrepancy",
+      "status": "In Progress",
+      "description": "I noticed a charge on my account that I don't recognize.",
+      "owner": "Billing Team",
+      "assignee": "Bob Brown",
+      "created_at": "2024-09-21T09:15:00Z",
+      "last_updated": "2024-09-21T09:45:00Z",
+      "customer_id": 2
+    }
+  ]
